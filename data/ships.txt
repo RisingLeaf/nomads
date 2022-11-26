@@ -109,7 +109,6 @@ ship "Ceraser"
 ship "Auranter"
 	swizzle 0
 	sprite ship/auranter
-	#thumbnail thumbnail/pomer
 	attributes
 		"category" "Drone"
 		"cost" 1000000
