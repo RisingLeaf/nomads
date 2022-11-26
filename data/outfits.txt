@@ -14,10 +14,8 @@ outfit "Ixion Destroyer"
 		"fire effect" "typhoon fire"
 		"hit effect" "torpedo hit"
 		"die effect" "tiny explosion"
-		"velocity" 0
-		"velocity override" 6
-		"lifetime" 100
-		"range override" 6600
+		"velocity" 6
+		"lifetime" 150
 		"reload" 60
 		"firing energy" 4
 		"firing heat" 50
@@ -41,16 +39,13 @@ outfit "Ixion Turret"
 			"frame rate" 4
 			"random start frame"
 		"hardpoint sprite" "hardpoint/ixion turret"
-		"hardpoint offset" 9.
 		"turret turn" 10
 		sound "typhoon"
 		"fire effect" "typhoon fire"
 		"hit effect" "torpedo hit"
 		"die effect" "tiny explosion"
-		"velocity" 0
-		"velocity override" 6
-		"lifetime" 150
-		"range override" 6600
+		"velocity" 6
+		"lifetime" 225
 		"reload" 40
 		"firing energy" 4
 		"firing heat" 50
