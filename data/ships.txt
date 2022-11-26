@@ -115,7 +115,7 @@ ship "Auranter"
 		"shields" 500
 		"hull" 1000
 		"mass" 50
-		"drag" 0.9
+		"drag" 1.5
 		"heat dissipation" 0.85
 		"fuel capacity" 0
 		"cargo space" 0
