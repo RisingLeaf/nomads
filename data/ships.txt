@@ -147,3 +147,81 @@ ship "Auranter"
 	gun 0 -20.5
 	engine -5 25
 	engine 5 25
+
+ship "Arbor"
+	swizzle 0
+	sprite ship/arbor
+	attributes
+		"category" "Space Liner"
+		"cost" 100000000000
+		"shields" 50000
+		"hull" 200000
+		"required crew" 120
+		"bunks" 1253
+		"mass" 1000
+		"drag" 0.9
+		"heat dissipation" 0.9
+		"fuel capacity" 800
+		"cargo space" 300
+		"outfit space" 540
+		"weapon capacity" 250
+		"engine capacity" 230
+		"energy capacity" 20000
+		"energy generation" 1000
+		"heat generation" 17
+		"shield generation" 40
+		"shield energy" 20
+		"hull repair rate" 30
+		"hull energy" 15
+		"ion protection" 3
+		"ion resistance" 1
+		"ramscoop" 100
+		weapon
+			"blast radius" 250
+			"shield damage" 2500
+			"hull damage" 1250
+			"hit force" 3750
+	outfits
+		"Ixion Turret" 8
+		"Alpha Thruster"
+		"Jump Drive"
+
+	turret -169.5 -128.5
+	turret 169.5 -128.5
+	turret 118 -128.5
+	turret -118 -128.5
+	turret -170.5 81.5
+	turret 170.5 81.5
+	turret -116.5 83
+	turret 116.5 83
+	bay "Drone" -12 -413
+		"over"
+	bay "Drone" 12 -413
+		"over"
+	bay "Drone" -15 -394.5
+		"over"
+	bay "Drone" 15 -394.5
+		"over"
+	bay "Drone" -15 -378.5
+		"over"
+	bay "Drone" 15 -378.5
+		"over"
+	bay "Drone" -13.5 -128.5
+		"over"
+	bay "Drone" 13.5 -128.5
+		"over"
+	bay "Drone" -15 78.5
+		"over"
+	bay "Drone" 15 78.5
+		"over"
+	"steering engine" 83.5 424.5
+		angle 330
+		right
+	"steering engine" -83.5 424.5
+		angle 30
+		left
+	engine 10.5 470
+	engine -10.5 470
+	engine 10.5 470
+	engine -10.5 470
+
