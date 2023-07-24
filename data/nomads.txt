@@ -1,5 +1,5 @@
 #hi
-#welcome back hey yo wassup man
+#welcome back hey yo wassup mate
 government "Nomads"
 	"player reputation" 0
 	"swizzle" 0
